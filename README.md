@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Deep Learning and OpenCV
 - 💬 Ask me about Machine Learning, Deep Learning and Data Science
-- 📫 How to reach me: https://www.linkedin.com/in/roostamovic/
+- 📫 How to reach me: roostamovic@yahoo.com
 - ⚡ Fun fact: I can't stand without learning news in Math and Data Science
 
  ### Glad to see you here !  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
