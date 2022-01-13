@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **roostamovic@yahoo.com**
 
-- ⚡ Fun fact: **I play games and watch movies very often.**
+- ⚡ Fun fact: **I like playing games and watching movies.**
 
 ## 🔨 Languages and Tools:
 
