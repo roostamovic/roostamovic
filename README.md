@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning** and **OpenCV**
+- 🌱 I’m currently learning **Deep Learning** and **Computer Vision**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **roostamovic@yahoo.com**
 
-- ⚡ Fun fact: **I like playing games and watching movies.**
+- ⚡ Fun fact: **I like playing computer games and watching movies.**
 
 ## 🔨 Languages and Tools:
 
