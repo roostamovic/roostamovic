@@ -29,11 +29,7 @@
     <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
 </p>
 
-## 📊 My Github Stats:
-
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roostamovic&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roostamovic&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<br/>
 
 ## 🌐 My Social Media:
 
