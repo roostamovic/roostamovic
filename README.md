@@ -28,7 +28,6 @@
     <a href="https://jetbrains.com/pycharm" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png"/> </a> 
     <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
 </p>
-<br/>
 
 ## 🌐 My Social Media:
 
